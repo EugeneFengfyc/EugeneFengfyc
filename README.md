@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eugene Feng
 - 👀 I’m interested in Java Development.
 - 🌱 I’m currently learning ditributed system.
-- 📫 Please contact me with my e-mail : yuechenf@vt.edu
+- 📫 Please contact me with my e-mail : yuechen2f@gmail.com
 
 <!---
 EugeneFengfyc/EugeneFengfyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
